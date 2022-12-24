@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/boggle-solver/static/css/main.8e55045d.css",
+    "main.js": "/boggle-solver/static/js/main.a5d28eb0.js",
+    "static/js/787.d99f7004.chunk.js": "/boggle-solver/static/js/787.d99f7004.chunk.js",
+    "index.html": "/boggle-solver/index.html",
+    "main.8e55045d.css.map": "/boggle-solver/static/css/main.8e55045d.css.map",
+    "main.a5d28eb0.js.map": "/boggle-solver/static/js/main.a5d28eb0.js.map",
+    "787.d99f7004.chunk.js.map": "/boggle-solver/static/js/787.d99f7004.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8e55045d.css",
+    "static/js/main.a5d28eb0.js"
+  ]
+}
