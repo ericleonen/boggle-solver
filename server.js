@@ -95,7 +95,7 @@ const generateBoardFromString = (boardString, rows, cols) => {
 };
 
 app.use(cors({
-    origin: ["http://localhost:3000", "https://ericleonen.github.io/boggle-solver/"]
+    origin: "*"
 }));
 
 app.get("/solve", (req, res) => {
